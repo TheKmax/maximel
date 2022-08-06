@@ -12,4 +12,4 @@ echo "
                               
  █▀▄▀█ ▄▀█ ▀▄▀ █ █▀▄▀█ █▀▀ █░░
  █░▀░█ █▀█ █░█ █ █░▀░█ ██▄ █▄▄ " | lolcat
-figlet 2.0 | lolcat
+figlet Terminal | lolcat
